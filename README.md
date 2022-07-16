@@ -1,2 +1,2 @@
 gitflow
-hotfix
+hotfix 2
